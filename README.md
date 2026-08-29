@@ -17,6 +17,20 @@ Folders include data, scripts, and figures. See files listed below.
 ## Figures
 
 ## Required Packages
+nimble (v1.4.2)
 
+MCMCvis (v0.16.3)
+
+coda (v0.19.4.1)
+
+tidyr (v1.3.1)
+
+lubridate (v1.9.4)
+
+circular (v0.5.0)
+
+ggplot2 (v3.5.1)
+
+overlap (v0.3.9)
 ## How to use this Repository
 The script "covariate and caphist prep.R" must be run prior to any other scripts. This script sets up the sample units sites and arranges all survey and site covariates in the proper order to match sample unit sites and surveys. The script requires all '.csv' files describing site covariates and "site stations with detection covariates.csv".
