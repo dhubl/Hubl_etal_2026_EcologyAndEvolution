@@ -32,7 +32,7 @@ Site_Buffer_Areas.csv
 
 Tree_Density.csv
 
-## [Scripts](R scripts)
+## [Scripts](R%20scripts)
 covariate_and_caphist_prep.R
 
 Goodness_of_Fit.R
