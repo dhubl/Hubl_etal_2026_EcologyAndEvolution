@@ -13,31 +13,49 @@ Folders include data, scripts, and figures. See files listed below.
 ## Data
 ### Processed Data
 site_stations_with_detection_covariates.csv
+
 Detection_event_times.csv
 ### Covariate Data
 Elevation_sites_m.csv
+
 Length_of_edge_m.csv
+
 NLDC_Agri_cells_bySite.csv
+
 NLDC_Developed_cells_bySite.csv
+
 PRISM_sites_mm.csv
+
 Road_cells_bySite.csv
+
 Site_Buffer_Areas.csv
+
 Tree_Density.csv
 
 ## Scripts
 covariate_and_caphist_prep.R
+
 Goodness_of_Fit.R
+
 model_estimates_use_detection_probabilities.R
+
 model_selection_and_figures.R
+
 NIMBLE_null_interactions.R
+
 NIMBLE_flat_interactions.R
+
 NIMBLE_full_interactions.R
+
 Temporal_Overlap.R
 
 ## Figures
 Figure1.png
+
 Figure2.png
+
 Figure3.png
+
 Figure4.png
 
 ## Required Packages
