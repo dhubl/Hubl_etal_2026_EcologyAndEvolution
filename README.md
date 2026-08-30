@@ -75,4 +75,4 @@ ggplot2 (v3.5.1)
 
 overlap (v0.3.9)
 ## How to use this Repository
-The script "covariate and caphist prep.R" must be run prior to any other scripts. This script sets up the sample units sites and arranges all survey and site covariates in the proper order to match sample unit sites and surveys. The script requires all '.csv' files describing site covariates and "site stations with detection covariates.csv".
+The script "covariate and caphist prep.R" must be run prior to any other scripts. This script sets up the sample units sites and arranges all survey and site covariates in the proper order to match sample unit sites and surveys. The script requires all '.csv' files describing site covariates and "site stations with detection covariates.csv". The temporal analysis requires the "Detection_event_times.csv" file and "Temporal_Overlap.R" script
