@@ -32,7 +32,7 @@ Site_Buffer_Areas.csv
 
 Tree_Density.csv
 
-## Scripts
+## [Scripts](R scripts)
 covariate_and_caphist_prep.R
 
 Goodness_of_Fit.R
@@ -49,7 +49,7 @@ NIMBLE_full_interactions.R
 
 Temporal_Overlap.R
 
-## Figures
+## [Figures](Figures)
 Figure1.png
 
 Figure2.png
